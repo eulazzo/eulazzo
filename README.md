@@ -1,11 +1,13 @@
-## Hi there, i'm Lázaro Vanderson  
+<!-- ## Hi there, i'm Lázaro Vanderson  
 
 
-<h2>𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2>
+<h2>𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 </h2> -->
 
-<li> 💻 S𝗍𝗎𝖽𝗒𝗂𝗇𝗀 𝗍𝗈 𝖻𝖾𝖼𝗈𝗆𝖾 𝖺 better 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
+<!-- <li> 💻 S𝗍𝗎𝖽𝗒𝗂𝗇𝗀 𝗍𝗈 𝖻𝖾𝖼𝗈𝗆𝖾 𝖺 better 𝖿𝗋𝗈𝗇𝗍-𝖾𝗇𝖽 𝗐𝖾𝖻 𝖽𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 </li>
 <li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Reactjs and NodeJs</li>
-<li> 😍 Coffee, music & c𝗈𝖽e </li>
+<li> 😍 Coffee, music & c𝗈𝖽e </li> -->
+
+<a target="_blank" ><img src="./assets/readmeIMG.jpg" alt="Imagem de apresentação do Kevin Oliveira. Católico, músico, designer e front-end."></a>
 
 ##
 <div style="display:flex">
