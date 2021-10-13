@@ -7,7 +7,7 @@
 <li> 🧠 𝖨’𝗆 𝖼𝗎𝗋𝗋𝖾𝗇𝗍𝗅𝗒 𝗅𝖾𝖺𝗋𝗇𝗂𝗇𝗀 Reactjs and NodeJs</li>
 <li> 😍 Coffee, music & c𝗈𝖽e </li> -->
 
-<a target="_blank" ><img src="./assets/readme_image.svg" alt="Imagem de apresentação do lázaro Vanderson."></a>
+<a align="center" target="_blank" ><img src="./assets/readme_image.svg" alt="Imagem de apresentação do lázaro Vanderson."></a>
 
 ##
 <div style="display:flex">
