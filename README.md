@@ -37,12 +37,12 @@
   <a  href="https://www.linkedin.com/in/eulazzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:eulazzo@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/eulazzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wYVpNPP5/" target="_blank"><img src="https://img.shields.io/badge/Discord-5562ea?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.gg/wYVpNPP5" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:lazarovanderson@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <!--  ![Snake animation](https://github.com/eulazzo/eulazzo/blob/output/github-contribution-grid-snake.svg) -->
 
 </div>  
 
 
 
-<!-- <h4>𝐂𝐫𝐞𝐝𝐢𝐭: <a href="https://github.com/eulazzo">eulazzo</a></h4>
-<p> 𝐋𝐚𝐬𝐭 𝐄𝐝𝐢𝐭𝐞𝐝 𝐨𝐧: 30/07/2021 </p> -->
+ 
