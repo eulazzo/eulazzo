@@ -26,6 +26,8 @@
 
 <div>
   
+  https://github-readme-stats.vercel.app/api?username=eulazzo
+  
   <a  href="https://www.linkedin.com/in/eulazzo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:eulazzo@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:lazarovanderson@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%fbbc04?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
