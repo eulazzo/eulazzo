@@ -1,5 +1,5 @@
 
-<a align="center" target="_blank" ><img src="./assets/githubAssets.svg" alt="Imagem de apresentação do lázaro Vanderson."></a>
+<a align="center" target="_blank" ><img src="./assets/Readme.svg" alt="Imagem de apresentação do lázaro Vanderson."></a>
 
 ##
 <div style="display:flex">
