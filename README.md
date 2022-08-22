@@ -1,11 +1,10 @@
 
 <a align="center" target="_blank" ><img src="./assets/Readme.svg" alt="Imagem de apresentação do lázaro Vanderson."></a>
 
-##
 <div style="display:flex">
-  <a href="https://github.com/eulazzo">           
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eulazzo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eulazzo&layout=compact&langs_count=7&theme=midnight-purple">
+  <a href="https://github.com/eulazzo">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eulazzo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulazzo&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
  
 <br>
